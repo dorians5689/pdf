@@ -70,14 +70,11 @@
 + [不持有的生活.pdf](https://github.com/dorians5689/pdf/blob/main/生活/不持有的生活.pdf)
 
 ### 生物
-+ [2021年-撒哈拉以南非洲应对疫情.pdf](https://github.com/dorians5689/pdf/blob/main/激活/2021年-撒哈拉以南非洲应对疫情.pdf)
-+ [中国医学史.pdf](https://github.com/dorians5689/pdf/blob/main/激活/中国医学史.pdf)
++ [2021年-撒哈拉以南非洲应对疫情.pdf](https://github.com/dorians5689/pdf/blob/main/生物/2021年-撒哈拉以南非洲应对疫情.pdf)
++ [中国医学史.pdf](https://github.com/dorians5689/pdf/blob/main/生物/中国医学史.pdf)
++ [2021年-运动与睡眠.pdf](https://github.com/dorians5689/pdf/blob/main/生物/2021年-运动与睡眠.pdf)
 
-### 激活
-+ [高校微软产品激活服务的原理.pdf](https://github.com/dorians5689/pdf/blob/main/激活/高校微软产品激活服务的原理.pdf)
-+ [高校微软产品激活服务的原理.pdf](https://github.com/dorians5689/pdf/blob/main/激活/高校微软产品激活服务的原理.pdf)
-+ [高校微软产品激活服务的原理.pdf](https://github.com/dorians5689/pdf/blob/main/激活/高校微软产品激活服务的原理.pdf)
-+ [高校微软产品激活服务的原理.pdf](https://github.com/dorians5689/pdf/blob/main/激活/高校微软产品激活服务的原理.pdf)
+
 
 ### 科技
 + [125个推动基础科学研究的科学难题.pdf](https://github.com/dorians5689/pdf/blob/main/科技/125个推动基础科学研究的科学难题.pdf)
