@@ -70,6 +70,7 @@
 + [2020年-中国睡眠经济行业短报告.pdf](https://github.com/dorians5689/pdf/blob/main/生活/2020年-中国睡眠经济行业短报告.pdf)
 + [2021年-凯絡趋势报告.pdf](https://github.com/dorians5689/pdf/blob/main/生活/2020年-2021年-凯絡趋势报告.pdf)
 + [不持有的生活.pdf](https://github.com/dorians5689/pdf/blob/main/生活/不持有的生活.pdf)
++ [2020年-中国在线音乐行业报告](https://github.com/dorians5689/pdf/blob/main/生活/2020年-中国在线音乐行业报告)
 
 ### 生物
 + [2021年-撒哈拉以南非洲应对疫情.pdf](https://github.com/dorians5689/pdf/blob/main/生物/2021年-撒哈拉以南非洲应对疫情.pdf)
