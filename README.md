@@ -70,7 +70,8 @@
 + [2020年-中国睡眠经济行业短报告.pdf](https://github.com/dorians5689/pdf/blob/main/生活/2020年-中国睡眠经济行业短报告.pdf)
 + [2021年-凯絡趋势报告.pdf](https://github.com/dorians5689/pdf/blob/main/生活/2020年-2021年-凯絡趋势报告.pdf)
 + [不持有的生活.pdf](https://github.com/dorians5689/pdf/blob/main/生活/不持有的生活.pdf)
-+ [2020年-中国在线音乐行业报告](https://github.com/dorians5689/pdf/blob/main/生活/2020年-中国在线音乐行业报告)
++ [2020年-中国在线音乐行业报告](https://github.com/dorians5689/pdf/blob/main/生活/2020年-中国在线音乐行业报告.pdf)
++ [2021年-春节数据专题报告.pdf](https://github.com/dorians5689/pdf/blob/main/生活/2021年-春节数据专题报告.pdf)
 
 ### 生物
 + [2021年-撒哈拉以南非洲应对疫情.pdf](https://github.com/dorians5689/pdf/blob/main/生物/2021年-撒哈拉以南非洲应对疫情.pdf)
@@ -101,6 +102,7 @@
 ### 老龄化
 + [2021年-中国养老金融调查报告.pdf](https://github.com/dorians5689/pdf/blob/main/老龄化/2021年-中国养老金融调查报告.pdf)
 + [2021年-大中城市中产人群养老风险蓝皮书.pdf](https://github.com/dorians5689/pdf/blob/main/老龄化/2021年-大中城市中产人群养老风险蓝皮书.pdf)
++ [2021年-养老产业专题研究.pdf](https://github.com/dorians5689/pdf/blob/main/老龄化/2021年-养老产业专题研究.pdf)
 
 ### 金融
 + [2020年-蚂蚁集团-商业模式及竞争壁垒的深度分析.pdf](https://github.com/dorians5689/pdf/blob/main/金融/2020年-蚂蚁集团-商业模式及竞争壁垒的深度分析.pdf)
